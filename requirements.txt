@@ -1,0 +1,17 @@
+# Web framework
+flask==2.3.4         # for web dashboard
+fastapi==0.101.1     # optional, if using FastAPI instead of Flask
+uvicorn==0.23.2      # for running FastAPI
+
+# Data handling
+pandas==2.1.1        # for logging and processing data
+numpy==1.26.2        # numerical calculations
+
+# IoT / Hardware
+RPi.GPIO==0.7.1      # for Raspberry Pi GPIO control
+adafruit-circuitpython-dht==6.2.0  # if using DHT sensors
+pyserial==3.6        # for serial communication with sensors
+
+# Utilities
+python-dotenv==1.0.1 # for environment variables
+requests==2.32.0     # for API requests or cloud integration
