@@ -32,3 +32,14 @@ Maintaining optimal temperature and humidity is critical for silkworm growth. Th
 git clone https://github.com/kafkakaif/silkworm-environment-monitoring.git
 cd silkworm-environment-monitoring
 pip install -r requirements.txt
+
+
+---
+
+##🌿 Built with Nature and Code by
+ ____  __.    _____    .___  ___________ 
+|    |/ _|   /  _  \   |   | \_   _____/ 
+|      <    /  /_\  \  |   |  |    __)   
+|    |  \  /    |    \ |   |  |     \    
+|____|__ \ \____|__  / |___|  \___  /    
+        \/         \/             \/     
