@@ -35,8 +35,7 @@ pip install -r requirements.txt
 
 
 ---
-
-##🌿 Built with Nature and Code by
+## Built with Nature and Code by 
  ____  __.    _____    .___  ___________ 
 |    |/ _|   /  _  \   |   | \_   _____/ 
 |      <    /  /_\  \  |   |  |    __)   
